@@ -1,0 +1,2 @@
+# PartnersAppReact
+Created with CodeSandbox
